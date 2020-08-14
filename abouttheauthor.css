@@ -1,0 +1,18 @@
+header {
+	background-image: url(colors.jpeg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+body{
+	text-decoration-color:	#C0C0C0;
+	font-size: 30px;
+}
+
+
+.logo{
+    width: 100px;
+    display: inline-flex;
+    position: center;
+}
+

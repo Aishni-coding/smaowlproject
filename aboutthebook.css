@@ -1,0 +1,14 @@
+header {
+	background-image: url(colors.jpeg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+}
+h1 {
+	text-align: center;
+}
+body {
+	text-align: center;
+	font-size: 30px;
+}

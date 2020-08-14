@@ -1,0 +1,47 @@
+header {
+	background-image: url(colors.jpeg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+}
+
+   } 
+.contact-title{
+	 margin-top: 100px;
+	 color: #fff;
+	 text-transform: uppercase;
+	 text-align: center;
+
+}
+
+.contact-title h1{
+	font-size: 32px;
+	line-height: 10px;
+	text-align: center;
+}
+
+
+.contact-title h2{
+	font-size: 16px;
+	text-align: center;
+
+}
+form{
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+.form-control{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color: #fff;
+	font-size: 18px;
+	margin-bottom: 16;
+	text-align: center;
+
+}
